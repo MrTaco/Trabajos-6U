@@ -1,1 +1,0 @@
-console.log("1.Triangulo \n2.Cuadrado \n3.Circulo").
